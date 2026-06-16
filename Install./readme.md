@@ -1,1 +1,3 @@
-git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+Install(){
+`git clone https://github.com/NvChad/starter ~/.config/nvim && nvim`
+}
